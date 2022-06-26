@@ -5,6 +5,8 @@ This is a repository for my 30 days of JavaScript challenge from [here](https://
 
 Personal challenge to post every day a note about JS.
 
+I'm still going!
+
 | Day | Title      |
 | --- |:----------:|
 | 01 | [JS Drum Kit](day01/)|
